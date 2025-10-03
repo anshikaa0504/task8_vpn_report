@@ -3,7 +3,7 @@
 This repository contains my **Task 8 report** for the Cyber Security Internship at Elevate Labs, focusing on hands-on experience with a free VPN (ProtonVPN) and analysis of its benefits and limitations.
 
 ## Contents
-- `Task8_VPN_Report.pdf` — Final report including VPN setup steps, observations, and key takeaways.
+- `Report.pdf` — Final report including VPN setup steps, observations, and key takeaways.
 
 ## Summary
 - Connected to a free ProtonVPN server (Japan) and verified IP change.
